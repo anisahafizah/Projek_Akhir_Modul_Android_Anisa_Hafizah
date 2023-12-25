@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#F8BEBE</color>
+    <color name="ungu">#F3C7C7</color>
+    <color name="coklat">#B88585</color>
+    <color name="kuning">#FFC107</color>
+    <color name="coklatt">#AC8F56</color>
+    <color name="teal">#ff009688</color>
+
+
+
+    <color name="start_color">#FFFFFF</color>
+    <color name="mid_color">#7A4F27</color>
+    <color name="cream">#E3BD9B</color>
+    <color name="creamm">#F3E3CC</color>
+</resources>
